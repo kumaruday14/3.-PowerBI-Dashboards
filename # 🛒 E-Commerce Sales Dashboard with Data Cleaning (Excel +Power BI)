@@ -1,0 +1,40 @@
+## 📌 Project Summary
+
+- ✅ Cleaned a messy Excel file containing sales orders
+- 🧹 Removed duplicates, converted dates, stripped currency symbols
+- 🔍 Created new calculated columns (like Year-Month) using DAX
+- 📊 Built an interactive Power BI dashboard with key insights
+
+---
+
+## 📂 Dataset
+
+The raw Excel data included:
+- Order ID
+- Customer Name
+- Order Date
+- Product
+- Category
+- City
+- Order Amount (£)
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel (initial cleaning)
+- Power Query (data transformation)
+- Power BI Desktop (dashboard)
+- DAX (calculated columns)
+
+---
+
+## 📈 Dashboard Features
+
+| Visual           | Insight Provided                      |
+|------------------|----------------------------------------|
+| KPI Cards        | Total Sales, Total Orders              |
+| Line Chart       | Monthly Sales Trend                    |
+| Bar Chart        | Top 5 Customers by Sales               |
+| Donut Chart      | Sales by Product Category              |
+| Slicers          | Interactivity by City and Date Range   |
